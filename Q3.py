@@ -12,3 +12,5 @@ while is_true:
         array.append(new_word)
 
     print(array)
+
+print(f"The word {new_word} already exists in the array...")
